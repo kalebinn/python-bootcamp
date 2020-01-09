@@ -1,5 +1,5 @@
 my_first_list = [2, 4, 6, 8]
-#print(my_first_list[0])
+#print(my_first_list[0]) 
 
 length = len(my_first_list)
 #print("The length of the list is", length)

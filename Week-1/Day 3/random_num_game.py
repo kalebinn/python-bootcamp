@@ -25,5 +25,6 @@ while guesses_taken < total_guesses and user_won == False:
 print("You took", guesses_taken)
 print("Your guesses were: ")
 print(guesses)
+print("The winning number was:", winning_num)
 
 
