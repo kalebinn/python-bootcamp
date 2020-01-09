@@ -10,3 +10,6 @@ The official site for class notes and mini-projects can be found [here](https://
 
 ## Schedule and covered topics  
 **Day 1 - Monday, January 06, 2020** - Input, output, variables, data types, conditional statements and loops.   
+**Day 2 - Tuesday, January 07, 2020** - Functions and lists
+**Day 3 - Wednesday, January 08, 2020** - Random number game, linear search algorithm, finding min/max
+**Day 4 - Monday, January 13, 2020** - Bisection method of finding roots, binary search method, sets and dictionaries.
