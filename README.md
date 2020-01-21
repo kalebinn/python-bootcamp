@@ -16,7 +16,7 @@ The official site for class notes/demos and descriptions for mini-projects can b
 **Day 5 - Tuesday, January 14, 2020** - Monte Carlo methods continued, Web scraping and strings   
 **Day 6 - Wednesday, January 15, 2020** - Dictionaries, hashing, safe password storage practices, basic log-in system    
 **Day 7 - Tuesday, January 21, 2020** - Classes, Shortest Path Algorithm visualization part I - Using PyGame    
-**Day 8 - Wednesday, January 22, 2020** - Classes continued, Djikstra's shortest path, Shortest Path Algorithm visualization part II    
+**Day 8 - Wednesday, January 22, 2020** - Classes continued, Distance vectors, Breadth first search, Djikstra's shortest path, Shortest Path Algorithm visualization part II    
 
 
 
